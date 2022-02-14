@@ -1,0 +1,16 @@
+[package]
+name = "prounckk-cli"
+authors = ["Sergei Eremeev <sergei@eremeev.ca>"]
+description = "A tool to search files"
+homepage = "https://github.com/prounckk/prounckk-cli"
+repository = "https://github.com/prounckk/prounckk-cli"
+keywords = ["cli", "demo"]
+categories = ["command-line-utilities"]
+readme = "README.md"
+version = "0.1.0"
+edition = "2021"
+license = "MIT OR Apache-2.0"
+
+[dependencies]
+
+
